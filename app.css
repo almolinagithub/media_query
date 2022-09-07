@@ -24,7 +24,7 @@ ul,li {
 } */
 
 
-@media (max-width: 1000px) {
+/* @media (max-width: 1000px) {
     h1 {
         color: orange
     }
@@ -34,6 +34,20 @@ ul,li {
     h1 {
         color: red;
     }
+} */
+
+
+
+@media (max-width: 768px) {
+    h1 {
+        font-size: 4em;;
+    }
 }
 
 
+
+@media (max-width: 368px) {
+    h1 {
+        font-size: 2em;;
+    }
+}
